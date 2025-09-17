@@ -12,3 +12,4 @@ sleep(2)
 tello.rotate_counter_clockwise(90)
 sleep(2)
 tello.land()
+
